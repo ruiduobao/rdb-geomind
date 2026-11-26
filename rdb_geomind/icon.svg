@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <!-- RDB GeoMind 品牌图标（自绘）：深黛蓝圆角方底 + 白色轨道弧线 + 朱砂定位点 + 青绿点缀 + 中央字母 G -->
+  <rect x="8" y="8" width="240" height="240" rx="52" fill="#173F5F"/>
+  <!-- 轨道弧线（两条不同倾角的椭圆轨道） -->
+  <ellipse cx="128" cy="128" rx="102" ry="42" fill="none" stroke="#FFFFFF" stroke-width="9"
+           transform="rotate(-24 128 128)" opacity="0.95"/>
+  <ellipse cx="128" cy="128" rx="102" ry="42" fill="none" stroke="#2E7D6B" stroke-width="7"
+           transform="rotate(38 128 128)" opacity="0.9"/>
+  <!-- 中央字母 G -->
+  <text x="128" y="163" font-family="Arial, Helvetica, sans-serif" font-size="104"
+        font-weight="bold" fill="#FFFFFF" text-anchor="middle">G</text>
+  <!-- 朱砂定位点（轨道交点处） -->
+  <circle cx="196" cy="66" r="17" fill="#C8442C" stroke="#FFFFFF" stroke-width="5"/>
+  <!-- 青绿小点缀 -->
+  <circle cx="58" cy="196" r="9" fill="#2E7D6B" stroke="#FFFFFF" stroke-width="3"/>
+</svg>

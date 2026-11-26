@@ -1,0 +1,16 @@
+[general]
+name=RDB GeoMind
+qgisMinimumVersion=3.28
+description=RDB GeoMind · 锐多宝出品——为中文遥感人做的 QGIS 智能助手：说人话，干地信活。聊天生成可预览、可确认的 GIS 执行计划，内置 21 个 GIS 工具、10 种遥感指数与遥感工作流模板（裁剪/镶嵌/重投影/指数/分区统计/出图/国产卫星处理链）。
+about=RDB GeoMind 由锐多宝 RDB（四川锐多宝科技有限公司）开发。为中文遥感人做的 QGIS 智能助手——说人话，干地信活。大模型负责理解指令并生成执行计划，所有操作在用户确认后才执行；无现成工具匹配时生成脚本计划，脚本必须单独确认才会运行。内置十三个不依赖大模型的遥感工作流模板，含高分一号/二号、高分六号红边、吉林一号、哨兵二号、Landsat 8/9 地表温度等传感器处理链。免费版每日 10 次智能对话；Pro 月付 10 元/月不限次数，永久版 100 元（一次性）不限次数。技术支持：caaschengrui@163.com
+version=0.1.0
+author=锐多宝 RDB
+email=caaschengrui@163.com
+homepage=https://data.ruiduobao.cn/
+tracker=https://data.ruiduobao.cn/
+repository=https://data.ruiduobao.cn/
+category=Plugins
+tags=ai, agent, remote sensing, workflow, 遥感, 智能体
+icon=icon.png
+experimental=True
+deprecated=False
